@@ -1,4 +1,7 @@
-# Simple express demo
+# Simple demo app to test functions and endpoints using Jest.
+
+> clone the project and install required packages and run
+>npm run test 
 
 > Express: fast, unopinionated, minimalist web framework for Node.js
 
