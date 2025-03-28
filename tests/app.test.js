@@ -19,7 +19,6 @@ beforeAll((done) => {
   server = http.createServer(app);
   server.listen(3001, done);
 });
-
 afterAll((done) => {
   server.close(done);
 });
